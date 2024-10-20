@@ -1,7 +1,7 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Md.Alim&txt=I am focusing on continous learning..."></p>
+![Header Image](https://your-banner-image-url.com)  
 <!-- Add your custom cover/banner image link above -->
 
-# Hi there! 👋 I'm Md.Alim 
+# Hi there! 👋 I'm [Your Name]  
 **A Passionate MERN Stack Developer**
 
 ---
@@ -10,31 +10,17 @@
 
 I love crafting beautiful and functional full-stack applications using the latest web technologies. Here’s what I specialize in:
 
-⚛️ **Frontend**:  
-&nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-🔄 **State Management**:  
-&nbsp;&nbsp;&nbsp;&nbsp;![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-🌐 **Backend**:  
-&nbsp;&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-🛢 **Database**:  
-&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-
-🛠 **Other Tools**:  
-&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  
+| Frontend              | Backend                | Database               | State Management       | Other Tools            |
+|-----------------------|------------------------|------------------------|------------------------|------------------------|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white) | ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |  |   |   | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  |   |   |   | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  |  |  |   |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |  |  |  |  |
+</div>
 
 ---
 
