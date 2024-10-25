@@ -1,5 +1,4 @@
-![Header Image](![image](https://github.com/user-attachments/assets/893238cb-466a-4067-87a1-2dea9eecb28c)
-)  
+![Header Image](https://i.ibb.co.com/18WJH3V/Black-and-White-Animated-Gaming-Twitch-Banner.png)  
 <!-- Add your custom cover/banner image link above -->
 
 # Hi there! 👋 I'm [Your Name]  
