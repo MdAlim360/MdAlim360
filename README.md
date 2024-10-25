@@ -43,19 +43,19 @@ I love crafting beautiful and functional full-stack applications using the lates
 
 Here are some of my most notable projects:
 
-🛒 **[Meeting-room booking system]
-**Frontend
-(https://github.com/MdAlim360/meeting-room-booking-system)**  
-**Backend
-(https://github.com/MdAlim360/meeting-room-booking-server)**
-&nbsp;&nbsp;&nbsp;&nbsp;_A full-stack app with **React**, **Redux**, **Node.js**, and **MongoDB**._  
+🛒 **[Meeting-room booking system]**
+**Frontend**
+**(https://github.com/MdAlim360/meeting-room-booking-system)**  
+**Backend**
+**(https://github.com/MdAlim360/meeting-room-booking-server)**
+**&nbsp;&nbsp;&nbsp;&nbsp;_A full-stack app with React**, **Redux**, **Node.js**, and **MongoDB**._  
 
-💬 **[Mechanical Kyboard shop]
-**Frontend
-(https://github.com/MdAlim360/mechanical-keyboard-shop-frontend)**  
-**Backend
-(https://github.com/MdAlim360/mechanical-keyoard-shop-backend)**
-&nbsp;&nbsp;&nbsp;&nbsp;_Mechanical keyboard shop application built with **Socket.io**, **Express**, and **MongoDB**._  
+💬 **[Mechanical Kyboard shop]**
+**Frontend**
+**(https://github.com/MdAlim360/mechanical-keyboard-shop-frontend)**  
+**Backend**
+**(https://github.com/MdAlim360/mechanical-keyoard-shop-backend)**
+**&nbsp;&nbsp;&nbsp;&nbsp;_Mechanical keyboard shop application built with **Socket.io**, **Express**, and **MongoDB**._**  
 
 
 '---
