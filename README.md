@@ -70,5 +70,5 @@ When I'm not coding, I’m probably exploring new tech, experimenting with desig
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio-site.com)
-**Email:**md.alim1042@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.alim1042@gmail.com)
 ---
