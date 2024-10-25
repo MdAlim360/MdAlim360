@@ -1,14 +1,14 @@
-![Header Image](https://i.ibb.co.com/18WJH3V/Black-and-White-Animated-Gaming-Twitch-Banner.png)  
+![Header Image](https://i.ibb.co/18WJH3V/Black-and-White-Animated-Gaming-Twitch-Banner.png)  
 <!-- Add your custom cover/banner image link above -->
 
-# Hi there! 👋 I'm Md.Alim  
+# Hi there! 👋 I'm Md. Alim  
 **A Passionate MERN Stack Developer**
 
 ---
 
 ### 🛠 Technologies & Tools I Work With:
 
-I love crafting beautiful and functional full-stack applications using the latest web technologies. Here’s what I specialize in:
+I specialize in crafting beautiful, functional full-stack applications with modern web technologies:
 
 <div align="center">
   
@@ -26,49 +26,38 @@ I love crafting beautiful and functional full-stack applications using the lates
 
 ### 🚀 My Current Focus:
 
-🔍 **Learning**: I'm sharpening my skills with  
-&nbsp;&nbsp;&nbsp;&nbsp;⚛️ **React**, **Next.js**, **TypeScript**, **TailwindCSS**, and **Node.js**  
-🌐 **Building**: Creating scalable full-stack web applications  
-📚 **Exploring**: New technologies and frameworks to stay ahead of the curve
+- 🔍 **Learning**: Sharpening skills with ⚛️ **React**, **Next.js**, **TypeScript**, **TailwindCSS**, and **Node.js**  
+- 🌐 **Building**: Creating scalable full-stack web applications  
+- 📚 **Exploring**: Staying updated with new technologies and frameworks
 
 ---
 
 ### 📊 My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
 ---
 
 ### 🚧 Pinned Projects:
 
-Here are some of my most notable projects:
+Here are some of my notable projects:
 
-🛒 **[Meeting-room booking system]**
-**Frontend**
-**(https://github.com/MdAlim360/meeting-room-booking-system)**  
-**Backend**
-**(https://github.com/MdAlim360/meeting-room-booking-server)**
-**&nbsp;&nbsp;&nbsp;&nbsp;_A full-stack app with React**, **Redux**, **Node.js**, and **MongoDB**._  
+1. **Meeting-room Booking System**  
+   - [Frontend](https://github.com/MdAlim360/meeting-room-booking-system)  
+   - [Backend](https://github.com/MdAlim360/meeting-room-booking-server)  
+   - _Full-stack app with **React**, **Redux**, **Node.js**, and **MongoDB**_
 
-💬 **[Mechanical Kyboard shop]**
-**Frontend**
-**(https://github.com/MdAlim360/mechanical-keyboard-shop-frontend)**  
-**Backend**
-**(https://github.com/MdAlim360/mechanical-keyoard-shop-backend)**
-**&nbsp;&nbsp;&nbsp;&nbsp;_Mechanical keyboard shop application built with **Socket.io**, **Express**, and **MongoDB**._**  
-
-
-'---
-
-### 🏆 GitHub Contributions:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+2. **Mechanical Keyboard Shop**  
+   - [Frontend](https://github.com/MdAlim360/mechanical-keyboard-shop-frontend)  
+   - [Backend](https://github.com/MdAlim360/mechanical-keyoard-shop-backend)  
+   - _E-commerce app built with **Socket.io**, **Express**, and **MongoDB**_
 
 ---
 
 ### 💡 Fun Fact:
 
-When I'm not coding, I'm probably learning new tech, experimenting with designs, or exploring the world of open-source!
+When I'm not coding, I’m probably exploring new tech, experimenting with designs, or diving into open-source!
 
 ---
 
@@ -76,3 +65,5 @@ When I'm not coding, I'm probably learning new tech, experimenting with designs,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio-site.com)
+
+---
