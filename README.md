@@ -52,6 +52,11 @@ Here are some of my notable projects:
    - [Frontend](https://github.com/MdAlim360/mechanical-keyboard-shop-frontend)  
    - [Backend](https://github.com/MdAlim360/mechanical-keyoard-shop-backend)  
    - _E-commerce app built with **Socket.io**, **Express**, and **MongoDB**_
+   - 
+2. **Gardening tips social app**  
+   - [Frontend](https://github.com/MdAlim360/gardening-tips-frontend-project)  
+   - [Backend](https://github.com/MdAlim360/gardening-tips-backend-project)  
+   - _E-commerce app built with **Socket.io**, **Express**, and **MongoDB**_
 
 ---
 
@@ -65,5 +70,5 @@ When I'm not coding, I’m probably exploring new tech, experimenting with desig
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio-site.com)
-
+**Email:**md.alim1042@gmail.com
 ---
